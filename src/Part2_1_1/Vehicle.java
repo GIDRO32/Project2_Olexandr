@@ -1,4 +1,4 @@
-package Part2_1;
+package Part2_1_1;
 
 // Part 2.1.1 creating Superclass
 public class Vehicle {
